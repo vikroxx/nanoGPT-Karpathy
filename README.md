@@ -2,7 +2,7 @@
 
 Pytorch implementation of **GPT-2** (125M) , thanks to the OG Andrej Karpathy's Youtube series. Implemented GPT-2 from scratch using pytorch, along with the training loop, logging on WandB and successful model trainig on [Openwebtext-10k dataset](https://huggingface.co/datasets/stas/openwebtext-10k).
 
-![Overfitting Model on Dataset](https://i.ibb.co/G3QHwwm/figure-1.png)
+![Overfitting Model on Dataset](https://i.ibb.co/DW6wZ1j/train-loss.png)
 
 ## Requirments:
 Ensure you have Python 3.9 or higher installed. Install the required packages using pip:
